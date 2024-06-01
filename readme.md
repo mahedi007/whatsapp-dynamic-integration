@@ -29,7 +29,7 @@ This plugin is licensed under the GPL2.
 
 ## Contributing
 
-1. Fork it (https://github.com/mahedi007/whatsapp-integration/fork)
+1. Fork it (https://github.com/mahedi007/whatsapp-dynamic-integration)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
